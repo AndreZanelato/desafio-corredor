@@ -1,4 +1,4 @@
-### **Desafios do Corredor: Seu Guia Pessoal para o Mundo da Corrida!**
+## **Desafios do Corredor: Seu Guia Pessoal para o Mundo da Corrida!**
 
 **Já se perguntou como melhorar seu desempenho nas corridas?** O Desafios do Corredor é a sua ferramenta ideal! Com ele, você terá acesso a um mundo de informações sobre técnicas de treinamento, dicas de nutrição, roteiros de corrida e muito mais.
 
@@ -36,3 +36,8 @@ Se você é um entusiasta da corrida e tem conhecimento em alguma área relacion
 
 **Gostou deste README? Deixe um star no repositório!**
 **Comente abaixo se você tiver alguma sugestão ou dúvida!**
+
+
+## **Tecnologias Utilizadas**
+
+* **Front-end:** HTML, CSS, JavaScript
